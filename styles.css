@@ -52,6 +52,9 @@ body {
     color: white;
     text-align: center;
 }
+.center a:hover {
+    color: rgb(220, 220, 220);
+}
 .header .right {
     flex: 1;
     display: flex;
@@ -125,7 +128,7 @@ body {
     background-color: #45a049;
 }
 .button-two {
-    background-color: #809e8094; 
+    background-color: #4f8da8; 
     color: rgb(236, 236, 236); 
     padding: 15px 20px; 
     font-size: 24px; 
@@ -136,11 +139,6 @@ body {
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
     align-self: center;
 }
-.content-one button:hover {
-    background-color: #45a049;
-}
-
-
 
 
 .bloc-one {
@@ -182,7 +180,7 @@ body {
 .meals:hover {
     background-color: #D9534F;
     cursor: pointer; 
-    transition: background-color 0.3s ease; 
+    transition: background-color 0.4s ease; 
     color: antiquewhite;
     height: 600px;
     font-size: 25px;
@@ -224,7 +222,7 @@ body {
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    min-height: 50vh;
+    min-height: 40vh;
     padding: 50px 20px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
