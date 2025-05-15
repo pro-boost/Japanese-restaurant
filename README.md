@@ -82,13 +82,6 @@ Simply open the `index.html` file in your preferred web browser:
 
 ---
 
-## 📸 Screenshots
-
-![Landing Page Screenshot](./img/Capture-130151.png)
-![Landing Page Screenshot](./img/Capture-130216.png)
-
----
-
 ## 🏅 Credits
 
 - Images: [Unsplash](https://unsplash.com/) and [Pexels](https://www.pexels.com/)
